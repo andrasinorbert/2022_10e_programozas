@@ -1,0 +1,5 @@
+Sanyi;53
+Géza;33
+Anna;13
+Fruzsi;25
+Ödönke;78
