@@ -1,0 +1,5 @@
+Név;Magasság;Kor
+Klára;140;22
+Tamás;160;12
+Bence;190;27
+Laura;150;35
