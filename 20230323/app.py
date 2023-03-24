@@ -25,7 +25,7 @@
 
 
 import pymysql
-# pip install pymysql
+# terminál: pip install pymysql
 
 defaults={
     "DB_USER": "10e_user",
